@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.div1 {
+    background-color: rgb(243, 94, 57);
+    height: 100vh;
+}
+
+.div2 {
+    height: 100vh;
+    background-color: rgb(7, 90, 20);
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: rgba(247, 242, 243, 0.849);
+}
+
