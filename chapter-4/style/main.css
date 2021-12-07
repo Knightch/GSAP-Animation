@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.div {
+    height: 100vh;
+}
+
+.text {
+    width: 200px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border: 1px solid palegreen;
+    margin: 20px auto;
+    padding: 12px;
+}
+.trig{
+    height: 50px;
+    width: 50px;
+}
+
+.type_1 {
+    background-color: peachpuff;
+}
+
+.type_2 {
+    background-color: plum;
+}
+
+.type_3 {
+    background-color: seagreen;
+}
+
+.type_4 {
+    background-color: tan;
+}
