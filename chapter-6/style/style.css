@@ -1,12 +1,15 @@
-body{
+body {
     margin: 0;
 }
-.panel{
+
+.panel {
     height: 100vh;
-    background: rgb(13, 175, 127);
+    background: rgb(50, 10, 226);
 }
-.box{
+
+.box {
     width: 100px;
     height: 100px;
-    background: #200583;
+    background: #7c961e;
 }
+

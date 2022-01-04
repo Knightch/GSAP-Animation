@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+}
+.panel{
+    height: 100vh;
+    background: rgb(13, 175, 127);
+}
+.box{
+    width: 100px;
+    height: 100px;
+    background: #200583;
+}
+.box-red {
+    background: red;
+}
